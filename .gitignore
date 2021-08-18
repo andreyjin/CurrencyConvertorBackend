@@ -5,6 +5,7 @@
 /bin
 /.pnp
 .pnp.js
+yarn.lock
 
 # testing
 /coverage
